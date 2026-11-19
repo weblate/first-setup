@@ -14,13 +14,14 @@
 # brandon galvis <krafairusbrandon104@gmail.com>, 2025.
 # Fran Pacheco <franpacheco.cpp@gmail.com>, 2025.
 # Francisco Serrador <fserrador@gmail.com>, 2026.
+# Adolfo Jayme Barrientos <fito@libreoffice.org>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: vanilla-first-setup\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-07 10:11+0100\n"
-"PO-Revision-Date: 2026-03-18 20:09+0000\n"
-"Last-Translator: Francisco Serrador <fserrador@gmail.com>\n"
+"PO-Revision-Date: 2026-11-19 21:05+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fito@libreoffice.org>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/vanilla-os/first-"
 "setup/es/>\n"
 "Language: es\n"
@@ -28,7 +29,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17-dev\n"
+"X-Generator: Weblate 2026.12.dev0\n"
 
 #: data/org.vanillaos.FirstSetup.desktop.in:2
 msgid "Vanilla OS First Setup"
@@ -197,11 +198,11 @@ msgstr "Fecha y Hora"
 
 #: vanilla_first_setup/gtk/timezone.ui:12
 msgid "Select your preferred timezone"
-msgstr "Seleccione su zona horaria preferida"
+msgstr "Seleccione su huso horario preferido"
 
 #: vanilla_first_setup/gtk/timezone.ui:29
 msgid "Current timezone:"
-msgstr "Zona horaria actual:"
+msgstr "Huso horario actual:"
 
 #: vanilla_first_setup/gtk/timezone.ui:34
 msgid "not set"
@@ -310,7 +311,7 @@ msgid ""
 "timezone selection."
 msgstr ""
 "Utilice el modo original del fabricante de equipos con selección de idioma, "
-"teclado y zona horaria."
+"teclado y huso horario."
 
 #: vanilla_first_setup/views/conn_check.py:72
 msgid "No Internet Connection!"
@@ -364,11 +365,11 @@ msgstr "Resultados de búsqueda"
 
 #: vanilla_first_setup/views/timezone.py:39
 msgid "Timezone"
-msgstr "Zona horaria"
+msgstr "Huso horario"
 
 #: vanilla_first_setup/views/welcome_user.py:45
 msgid "Hello {}!"
-msgstr "Hola {}!"
+msgstr "¡Hola, {}!"
 
 #: vanilla_first_setup/views/progress.py:94
 msgid "Setting up the system"
